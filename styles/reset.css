@@ -3,5 +3,6 @@
   --secondary-color: dimgrey;
   --tertiary-color: gainsboro;
   --white: white;
-  --submit-color: linear-gradient(90deg, lightcoral, #ec4e4e, lightcoral);
+  --submit-color: linear-gradient(120deg, lightcoral, #ec4e4e, lightcoral);
+  --background-color: linear-gradient(120deg, rgb(112, 112, 112), rgb(63, 63, 63), rgb(114, 114, 114) );
 }
