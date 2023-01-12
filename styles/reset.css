@@ -1,0 +1,7 @@
+:root {
+  --primary-color: lightcoral;
+  --secondary-color: dimgrey;
+  --tertiary-color: gainsboro;
+  --white: white;
+  --submit-color: linear-gradient(90deg, lightcoral, #ec4e4e, lightcoral);
+}
