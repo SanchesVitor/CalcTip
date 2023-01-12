@@ -6,4 +6,5 @@
  ## Uma breve imagem ilustrativa do projeto!
 
  
-![CalcTip](https://user-images.githubusercontent.com/112482028/211960913-b22bdf02-cc23-491a-bc8f-0145d40bd352.jpg)
+
+![CalcTip2](https://user-images.githubusercontent.com/112482028/211961365-da64f73c-be40-4111-9eae-ba2cf858d7b4.jpg)
